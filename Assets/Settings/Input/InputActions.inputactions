@@ -1,0 +1,12 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "Drone",
+            "id": "101e9119-5169-4506-b6a0-9d155e235315",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
